@@ -1,2 +1,2 @@
 # xmmx-moonshine
-[QB] Advanced Moonshining Version checker
+[QB/ESX] Advanced Moonshining Version checker
